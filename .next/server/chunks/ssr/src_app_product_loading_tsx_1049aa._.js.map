@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 7, "column": 0}, "map": {"version":3,"sources":["file://D%3A/development/elevet/elevet/products_gallery/src/app/product/loading.tsx"],"sourcesContent":["import React from \"react\";\r\nimport { ClipLoader, HashLoader, PropagateLoader } from \"react-spinners\";\r\n\r\nexport default function Loading() {\r\n  return (\r\n    <div className=\"flex justify-center items-center h-screen\">\r\n      <MoonLoader color=\"#3498db\" cssOverride={{}} loading size={20} />\r\n    </div>\r\n  );\r\n}\r\n"],"names":[],"mappings":";;;;;AAGe,SAAS;IACtB,qBACE,8OAAC;QAAI,WAAU;kBACb,cAAA,8OAAC;YAAW,OAAM;YAAU,aAAa,CAAC;YAAG,OAAO;YAAC,MAAM;;;;;;;;;;;AAGjE"}},
+    {"offset": {"line": 31, "column": 0}, "map": {"version":3,"sources":[],"names":[],"mappings":"A"}}]
+}
