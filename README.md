@@ -11,7 +11,6 @@ This project is a **Responsive Products Gallery** website built with **Next.js**
    - Displays a loading indicator while fetching data.
 
 2. **Product Details Page**:
-   - Clicking a product navigates to a dynamic details page (`/products/[id]`).
    - Displays detailed information, including:
      - Product Name
      - Full Description
